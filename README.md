@@ -18,9 +18,9 @@ cat /output/entry.txt
 
 ## Entry
 
-> My Wi-Fi died mid-interview and I had to explain my skills out loud, like an animal.
+> My alarm and I have an agreement: it rings, I hit snooze, and we both pretend I'm a morning person.
 
-One line, 84 characters. The program asserts the entry is 1–200 characters
+One line, 99 characters. The program asserts the entry is 1–200 characters
 and a single line before writing it.
 
 ## Layout
